@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
         <Identity Id="TortoiseGitToolbarByLks" Version="1.0.0" Language="zh-Hans" Publisher="CodeMaker" />
-        <DisplayName>TortoiseGit Toolbar Lks</DisplayName>
+        <DisplayName>TortoiseGit Toolbar QiBu</DisplayName>
         <Description xml:space="preserve">TortoiseGit Toolbar Self Defined By QiBu</Description>
         <MoreInfo>http://www.qibu.net.cn</MoreInfo>
     </Metadata>
