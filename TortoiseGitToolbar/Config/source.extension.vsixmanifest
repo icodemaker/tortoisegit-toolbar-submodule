@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="TortoiseGitToolbarByLks" Version="1.0.0" Language="zh-Hans" Publisher="Vic" />
+        <Identity Id="TortoiseGitToolbarByLks" Version="1.0.0" Language="zh-Hans" Publisher="CodeMaker" />
         <DisplayName>TortoiseGit Toolbar Lks</DisplayName>
-        <Description xml:space="preserve">TortoiseGit Toolbar Self Defined By Likeshuo.com</Description>
-        <MoreInfo>http://www.likeshuo.com</MoreInfo>
+        <Description xml:space="preserve">TortoiseGit Toolbar Self Defined By QiBu</Description>
+        <MoreInfo>http://www.qibu.net.cn</MoreInfo>
     </Metadata>
     <Installation InstalledByMsi="false">
         <InstallationTarget Version="[11.0,16.0)" Id="Microsoft.VisualStudio.Pro" />
